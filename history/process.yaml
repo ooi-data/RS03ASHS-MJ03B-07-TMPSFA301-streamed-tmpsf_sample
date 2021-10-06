@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/RS03ASHS-MJ03B-07-TMPSFA301-streamed-tmpsf_sample
 data_stream: RS03ASHS-MJ03B-07-TMPSFA301-streamed-tmpsf_sample
 end_date: '2021-10-05T13:37:01.421Z'
-last_updated: '2021-10-06T01:22:17.217033Z'
+last_updated: '2021-10-06T02:42:25.963590'
 start_date: '2014-09-28T02:21:00.000Z'
-status: pending
+status: success
